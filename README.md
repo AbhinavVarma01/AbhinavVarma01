@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi there 👋, I'm Abhinav Varma<br><br>🎓 Second-year Computer Science student at Keshav Memorial College of Engineering.  <br>💡 Passionate about AI, Deep Learning, Machine Learning and Full-Stack Web Development  <br>🤝 Open to collaborating on AI and web-based projects
+ Hi there 👋, I'm Abhinav Varma<br><br>🎓 Third-year Computer Science student at Keshav Memorial College of Engineering.  <br>💡 Passionate about AI, Deep Learning, Machine Learning and Full-Stack Web Development  <br>🤝 Open to collaborating on AI and web-based projects
 
 
 ## 🌐 Socials:
